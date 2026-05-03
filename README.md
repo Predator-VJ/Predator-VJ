@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Vikas Joshi</h1>
-<h3 align="center">🖥️ IT System Administrator | PowerShell Enthusiast | Pune, India</h3>
+<h3 align="center">🖥️ IT System Administrator | PowerShell Enthusiast | India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=435&lines=IT+System+Administrator;PowerShell+Scripter;Windows+%26+Network+Specialist;Always+Learning+New+Tech" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working as an **IT System Administrator**
-- 🌍 Based in **Pune, Maharashtra, India**
+- 🌍 Based in **India**
 - 💻 Passionate about **automating IT tasks** with PowerShell
 - 🛠️ Experienced with **Windows Server, Active Directory, Citrix, Networking**
 - 📈 Always exploring new tools to make IT operations smoother
@@ -35,6 +35,7 @@
 
 | Project | Description |
 |--------|-------------|
+| [🌐 Citrix Monitoring Tools](https://github.com/Predator-VJ/citrix-monitoring-tools) | PowerShell monitoring & troubleshooting scripts for Citrix Virtual Apps and Desktops |
 | [⚙️ PowerShell SysAdmin Scripts](https://github.com/Predator-VJ/powershell-sysadmin-scripts) | Automation scripts for disk reports, user management, service monitoring, event logs, and more |
 
 ---
