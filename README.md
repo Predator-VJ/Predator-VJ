@@ -1,141 +1,253 @@
-<!-- Animated Header Banner -->
+<!-- ██████╗ ██████╗ ███████╗██████╗  █████╗ ████████╗ ██████╗ ██████╗      ██╗ -->
+<!-- ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██╔══██╗    ██║ -->
+<!-- ██████╔╝██████╔╝█████╗  ██║  ██║███████║   ██║   ██║   ██║██████╔╝    ██║ -->
+<!-- ██╔═══╝ ██╔══██╗██╔══╝  ██║  ██║██╔══██║   ██║   ██║   ██║██╔══██╗    ╚═╝ -->
+<!-- ██║     ██║  ██║███████╗██████╔╝██║  ██║   ██║   ╚██████╔╝██║  ██║    ██╗ -->
+<!-- ╚═╝     ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝    ╚═╝ -->
+
+<!-- ============================================================ -->
+<!--              CINEMATIC OPENING — MOVIE TITLE CARD            -->
+<!-- ============================================================ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vikas%20Joshi&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=IT%20SysAdmin%20%7C%20PowerShell%20%7C%20VMware%20Engineer&descAlignY=55&descSize=20&descColor=a0c4ff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:000000&height=300&section=header&text=PREDATOR-VJ&fontSize=90&fontColor=00ffff&animation=fadeIn&fontAlignY=45&stroke=00ffff&strokeWidth=2&desc=%E2%96%88%20SYSTEM%20ONLINE%20%E2%96%88%20INITIALIZING%20SEQUENCE%20%E2%96%88&descAlignY=68&descSize=16&descColor=00ff88" />
 </div>
 
-<!-- Animated Typing SVG -->
+<!-- ============================================================ -->
+<!--                    GLITCH TITLE EFFECT                       -->
+<!-- ============================================================ -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=👋+Hi%2C+I'm+Vikas+Joshi!;💻+IT+System+Administrator;🔧+PowerShell+Automation+Expert;🖥️+VMware+vCenter+%26+ESXi+Engineer;🌐+Citrix+%26+Windows+Server+Pro;🚀+Always+Building+New+Tools!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=700&height=60&lines=%E2%96%BA+VIKAS+JOSHI+%E2%97%84;%F0%9F%96%A5%EF%B8%8F+IT+SYSTEM+ADMINISTRATOR;%F0%9F%94%A7+POWERSHELL+%7C+VMWARE+%7C+CITRIX;%F0%9F%9A%80+AUTOMATING+THE+IMPOSSIBLE;%E2%9A%A1+SYSTEM+READY...+EXECUTE!" alt="Cinematic Typing" />
 </div>
 
 <br/>
 
-<!-- Profile Badges -->
+<!-- ============================================================ -->
+<!--                  LASER DIVIDER LINE                          -->
+<!-- ============================================================ -->
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-IT%20SysAdmin-00D4FF?style=for-the-badge&logo=windowsterminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-VMware%20%26%20PowerShell-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Profile%20Views-👁️-blueviolet?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&reversal=false" width="100%"/>
 </div>
 
 <br/>
 
----
+<!-- ============================================================ -->
+<!--              MISSION BRIEFING — CLASSIFIED STYLE             -->
+<!-- ============================================================ -->
 
-## 🧑 About Me
+<div align="center">
 
-```powershell
-$VikaJoshi = @{
-    Role        = "IT System Administrator"
-    Location    = "India"
-    Passion     = "Automating everything with PowerShell"
-    Skills      = @("Windows Server", "Active Directory", "Citrix", "VMware", "Networking")
-    CurrentWork = "Building open-source SysAdmin tools"
-    Goal        = "Automate. Simplify. Scale."
-    Quote       = "Why do it manually when PowerShell exists?"
-}
+```
+╔══════════════════════════════════════════════════════════════════╗
+║              ██████╗ ██████╗ ██╗███████╗███████╗██╗███╗   ██╗  ║
+║              ██╔══██╗██╔══██╗██║██╔════╝██╔════╝██║████╗  ██║  ║
+║              ██████╔╝██████╔╝██║█████╗  █████╗  ██║██╔██╗ ██║  ║
+║              ██╔══██╗██╔══██╗██║██╔══╝  ██╔══╝  ██║██║╚██╗██║  ║
+║              ██████╔╝██║  ██║██║███████╗██║     ██║██║ ╚████║  ║
+║              ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  AGENT        : VIKAS JOSHI (PREDATOR-VJ)                       ║
+║  CLEARANCE    : ████████████  [TOP SECRET]                      ║
+║  LOCATION     : INDIA  🌏                                       ║
+║  SPECIALITY   : PowerShell | VMware | Citrix | Windows Server   ║
+║  STATUS       : ▶ ACTIVE — MISSION IN PROGRESS                  ║
+║  OBJECTIVE    : AUTOMATE. SIMPLIFY. DOMINATE.                   ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-## 🛠️ Skills & Technologies
+<br/>
+
+<!-- ============================================================ -->
+<!--                  ANIMATED SKILL SCANLINES                    -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1200&pause=100&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%5BSYSTEM+SCAN%5D+Loading+PowerShell+modules.............+%5BOK%5D;%5BSYSTEM+SCAN%5D+Connecting+to+VMware+vCenter...............+%5BOK%5D;%5BSYSTEM+SCAN%5D+Authenticating+Active+Directory..........+%5BOK%5D;%5BSYSTEM+SCAN%5D+Establishing+Citrix+session.................+%5BOK%5D;%5BSYSTEM+SCAN%5D+All+systems+operational.+READY+TO+DEPLOY!" alt="System Scan" />
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--              GLOWING DIVIDER — NEON HORIZONTAL               -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ffff,100:000000&height=3&section=header" width="80%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  WEAPON LOADOUT — SKILLS                     -->
+<!-- ============================================================ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;WEAPON LOADOUT
 
 <div align="center">
 
-### 💠 Core Stack
+### ⚡ PRIMARY WEAPONS
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white&labelColor=000000" />
 
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white" />
+### 🛸 HEAVY ARTILLERY — VMWARE
+<img src="https://img.shields.io/badge/VMware%20vCenter-607078?style=for-the-badge&logo=vmware&logoColor=00ffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=00ffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=00ffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/PowerCLI-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=000000" />
 
-### ☁️ VMware
-
-<img src="https://img.shields.io/badge/VMware%20vCenter-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerCLI-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-
-### 🔧 Tools & Platforms
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Task%20Scheduler-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+### 🔬 SUPPORT GEAR
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=000000" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white&labelColor=000000" />
 
 </div>
 
----
+<br/>
 
-## 📂 Featured Projects
+<!-- ============================================================ -->
+<!--                  NEON DIVIDER                                -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff00ff,100:000000&height=3&section=header" width="80%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   INTEL DOSSIER — PROJECTS                   -->
+<!-- ============================================================ -->
+
+## 🎯 &nbsp;INTEL DOSSIER — ACTIVE MISSIONS
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🏷️ Tags |
-|:-----------|:--------------|:--------|
-| [🌐 Citrix Monitoring Tools](https://github.com/Predator-VJ/citrix-monitoring-tools) | PowerShell monitoring & troubleshooting scripts for Citrix Virtual Apps and Desktops | `PowerShell` `Citrix` `Monitoring` |
-| [⚙️ PowerShell SysAdmin Scripts](https://github.com/Predator-VJ/powershell-sysadmin-scripts) | Automation scripts for disk reports, user management, service monitoring, event logs | `PowerShell` `Windows` `Automation` |
-| [🖥️ vCenter Scripts](https://github.com/Predator-VJ/vcenter-scripts) | Manage VMs, snapshots, alarms, power states, and datastore capacity in vCenter | `VMware` `PowerCLI` `vCenter` |
-| [🔧 ESXi Host Scripts](https://github.com/Predator-VJ/esxi-host-scripts) | ESXi host inventory, maintenance mode, storage adapters, network config, and syslog | `VMware` `ESXi` `PowerCLI` |
+| 🔴 MISSION | 📋 OBJECTIVE | 🏷️ TAGS |
+|:-----------|:-------------|:--------|
+| [**🌐 CITRIX MONITORING**](https://github.com/Predator-VJ/citrix-monitoring-tools) | PowerShell surveillance & troubleshooting for Citrix Virtual Apps and Desktops | `PowerShell` `Citrix` |
+| [**⚙️ SYSADMIN ARSENAL**](https://github.com/Predator-VJ/powershell-sysadmin-scripts) | Automated strike scripts — disk, users, services, event logs | `PowerShell` `Windows` |
+| [**🖥️ VCENTER OPS**](https://github.com/Predator-VJ/vcenter-scripts) | VM control, snapshots, alarms, power states, datastore intel | `VMware` `PowerCLI` |
+| [**🔧 ESXI FIELD OPS**](https://github.com/Predator-VJ/esxi-host-scripts) | Host recon, maintenance mode, storage adapters, network config | `ESXi` `PowerCLI` |
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ============================================================ -->
+<!--                  NEON DIVIDER ORANGE                         -->
+<!-- ============================================================ -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Predator-VJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Predator-VJ&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ff6600,100:000000&height=3&section=header" width="80%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   GITHUB STATS — WAR ROOM                    -->
+<!-- ============================================================ -->
+
+## 📊 &nbsp;WAR ROOM — COMBAT STATISTICS
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Predator-VJ&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffff&icon_color=ff6600&text_color=00ff88&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Predator-VJ&theme=dark&hide_border=true&background=0d0d0d&stroke=00ffff&ring=ff6600&fire=ff0000&currStreakLabel=00ffff&sideLabels=00ff88&dates=888888" />
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predator-VJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predator-VJ&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffff&text_color=00ff88" />
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<!-- ============================================================ -->
+<!--                  TROPHY CASE — GOLD ROOM                     -->
+<!-- ============================================================ -->
+
+## 🏆 &nbsp;TROPHY VAULT
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Predator-VJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Predator-VJ&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<!-- ============================================================ -->
+<!--                  SNAKE CONTRIBUTION GRID                     -->
+<!-- ============================================================ -->
+
+## 🐍 &nbsp;STRIKE PATTERN — CONTRIBUTION GRID
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Predator-VJ/Predator-VJ/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Predator-VJ/Predator-VJ/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Predator-VJ/Predator-VJ/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Predator-VJ/Predator-VJ/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Predator-VJ&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://github.com/Predator-VJ">
-    <img src="https://img.shields.io/badge/GitHub-Predator--VJ-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 <br/>
 
-<!-- Animated Footer -->
+<!-- ============================================================ -->
+<!--                     ACTIVITY RADAR                           -->
+<!-- ============================================================ -->
+
+## 📡 &nbsp;RADAR — ACTIVITY FEED
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Predator-VJ&bg_color=0d0d0d&color=00ffff&line=ff6600&point=ffffff&area_color=ff660033&area=true&hide_border=true&custom_title=PREDATOR-VJ%20%7C%20STRIKE%20ACTIVITY" width="95%"/>
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  TERMINAL QUOTE                              -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  TRANSMISSION INCOMING                       -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=300&color=00FF88&center=true&vCenter=true&width=500&height=30&lines=%5BTRANSMISSION+END%5D+...+%5BCHANNEL+SECURE%5D+...+%5BOVER+%26+OUT%5D" alt="End" />
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  CONNECT / COMMS LINK                        -->
+<!-- ============================================================ -->
+
+## 📡 &nbsp;ESTABLISH COMMS LINK
+
+<div align="center">
+  <a href="https://github.com/Predator-VJ">
+    <img src="https://img.shields.io/badge/%F0%9F%94%97%20GITHUB-PREDATOR--VJ-181717?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=000000" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Predator-VJ&color=00ffff&style=for-the-badge&label=PROFILE+INFILTRATIONS" />
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                 CINEMATIC CLOSING TITLE CARD                 -->
+<!-- ============================================================ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:000000&height=200&section=footer&text=MISSION%20ACCOMPLISHED&fontSize=45&fontColor=ff6600&animation=fadeIn&fontAlignY=55&desc=END%20OF%20LINE%20%E2%96%88%20PREDATOR-VJ%20%E2%96%88%202026&descAlignY=75&descSize=14&descColor=00ffff" width="100%"/>
 </div>
