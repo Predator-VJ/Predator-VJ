@@ -23,5 +23,8 @@ jobs:
       - name: Run OpenCode
         uses: anomalyco/opencode/github@latest
         with:
-          model: opencode/auto
+          # NOTE: "opencode/auto" is not a valid model. Pick any model from the
+          # OpenCode Zen catalog (https://models.dev) such as:
+          #   opencode/claude-sonnet-4-5, opencode/grok-code, opencode/gpt-5-codex
+          model: opencode/grok-code
           share: true
